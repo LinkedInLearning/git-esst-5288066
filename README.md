@@ -10,10 +10,11 @@ Schritt für Schritt tauchen sie ein in die Welt von Branches und Merges, erfahr
 
 ## Installation
 
-1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
-   - [list of requirements for course]
-2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+Anstelle das Repository zu klonen, laden Sie die Datei
+git-training-dateien.zip
+von diesem Repository herunter und entpacken Sie sie auf Ihrer lokalen Maschine.
+Jeder Ordner innerhalb des ZIP-Archivs enthält ein eigenes Git-Repository mit kompletter Versionsgeschichte.
+
 
 ## Autorin
 
