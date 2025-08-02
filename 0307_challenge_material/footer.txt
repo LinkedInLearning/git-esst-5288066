@@ -1,3 +1,0 @@
-<footer>
-    <p>&copy; Meine Website. Alle Rechte vorbehalten.</p>
-</footer>
